@@ -9,6 +9,8 @@ Package license: GPL-3.0-or-later
 
 Summary: Parsing, manipulating, and visualising SUSY Les Houches Accord data
 
+Development: https://gitlab.com/hepcedar/pyslha/
+
 Current build status
 ====================
 
